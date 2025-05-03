@@ -1,0 +1,67 @@
+.top-container{
+    background-color: #fdf0d5;
+    padding-top: 100px;
+    position: relative;
+    height: 100vh;
+}
+body{
+    /* margin: 0; */
+    font-family: 'serif', sans-serif;
+    text-align: center;
+    color: #669bbc
+}
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+.mountain {
+    position: absolute;
+    left: 370px;
+    bottom: 0;
+    width: 598px;
+    height: 357px;
+    text-align: center;
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+h1{
+    font-family: "sacramento", cursive;
+}
+h3{
+    font-family: "sacramento", cursive;
+}
+p{
+    font-family: "sacramento", cursive;
+    text-align: center;
+    margin: 0px 343px;
+}
+.middle-container{
+   
+    padding-top: 570px;
+    padding-bottom: 20px;
+}
+hr{
+    border:#003049 dotted 6px;
+    margin: 100px auto;
+    width: 4%;
+    border-bottom: none;
+}
+.bottom-container{
+    background-color: #fdf0d5;
+    font-family: "sans-serif", sans-serif;
+    padding: 50px 0px 20px;
+    height: 100px;
+}
+
