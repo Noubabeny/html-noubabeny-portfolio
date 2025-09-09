@@ -1,2 +1,2 @@
-# html-noubabeny-portfolio
-This is my portfolio! I built it by myself.
+# html.css-capstone
+This is my capstone project using html and css. I built it by myself.
